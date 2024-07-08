@@ -1,0 +1,34 @@
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    text-decoration: none;
+    list-style: none;
+    
+    
+}
+.searchBar {
+    display: flex;
+    justify-content:center;
+    gap: 2rem;
+}
+
+.homeImage {
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+    
+}
+
+.logo {
+    width: 10rem;
+}
+
+a {
+    text-decoration: none;
+}
